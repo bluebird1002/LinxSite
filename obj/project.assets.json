@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yarra\\source\\repos\\LinxSite\\LinxSite.csproj",
+      "projectUniqueName": "C:\\Users\\yarra\\Source\\Repos\\bluebird1002\\LinxSite\\LinxSite.csproj",
       "projectName": "LinxSite",
-      "projectPath": "C:\\Users\\yarra\\source\\repos\\LinxSite\\LinxSite.csproj",
+      "projectPath": "C:\\Users\\yarra\\Source\\Repos\\bluebird1002\\LinxSite\\LinxSite.csproj",
       "packagesPath": "C:\\Users\\yarra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yarra\\source\\repos\\LinxSite\\obj\\",
+      "outputPath": "C:\\Users\\yarra\\Source\\Repos\\bluebird1002\\LinxSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
