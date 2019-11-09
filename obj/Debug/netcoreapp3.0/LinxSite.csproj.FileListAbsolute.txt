@@ -44,7 +44,6 @@ C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\bin\Debug\netcoreapp3.0\LinxSi
 C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\bin\Debug\netcoreapp3.0\LinxSite.pdb
 C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\bin\Debug\netcoreapp3.0\LinxSite.Views.dll
 C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\bin\Debug\netcoreapp3.0\LinxSite.Views.pdb
-C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\obj\Debug\netcoreapp3.0\LinxSite.csprojAssemblyReference.cache
 C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\obj\Debug\netcoreapp3.0\staticwebassets\LinxSite.StaticWebAssets.Manifest.cache
 C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\obj\Debug\netcoreapp3.0\staticwebassets\LinxSite.StaticWebAssets.xml
 C:\Users\yarra\Source\Repos\bluebird1002\LinxSite\obj\Debug\netcoreapp3.0\LinxSite.MvcApplicationPartsAssemblyInfo.cache
